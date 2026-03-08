@@ -70,6 +70,8 @@ Each role connects using different credentials stored in configuration files.
 
 -Invalid queries or permission errors are displayed in the interface.
 
+![root-commands](https://raw.githubusercontent.com/williamromero11/Project-5/main/Project-5/Root%20Commands%20Screenshots/Screenshot%202026-03-08%20100309.png)
+
 # Project Structure 
 ```
 SQLClient/
