@@ -67,7 +67,20 @@ Each role connects using different credentials stored in configuration files.
 -Invalid queries or permission errors are displayed in the interface.
 
 # Project Structure 
-
+```
+SQLClient/
+│
+├── SQLClient.java
+├── db.properties
+├── client1.properties
+├── client2.properties
+├── accountant.properties
+│
+└── screenshots/
+    ├── login.png
+    ├── query_execution.png
+    ├── result_table.png
+```
  
 # Example SQL Queries
 
