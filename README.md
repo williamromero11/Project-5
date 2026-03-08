@@ -33,6 +33,8 @@ The program connects to a MySQL database server and allows users to log in with 
 
 -SQL
 
+![accountant](https://raw.githubusercontent.com/williamromero11/Project-5/main/Project-5/Accountant/Screenshot%202026-03-08%20103152.png)
+
 # System Architecture
 
 Client Application (Java Swing GUI)
