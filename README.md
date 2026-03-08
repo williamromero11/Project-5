@@ -67,7 +67,7 @@ Each role connects using different credentials stored in configuration files.
 -Invalid queries or permission errors are displayed in the interface.
 
 # Project Structure 
-
+`` bash
 SQLClient/
 │
 ├── SQLClient.java
@@ -80,7 +80,7 @@ SQLClient/
     ├── login.png
     ├── query_execution.png
     ├── result_table.png
-
+``
 # Example SQL Queries
 
 SELECT * FROM suppliers;
