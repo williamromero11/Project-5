@@ -72,6 +72,7 @@ Each role connects using different credentials stored in configuration files.
 
 ![root-commands](https://github.com/williamromero11/Project-5/blob/main/Project-5/Root%20Commands%20Screenshots/Screenshot%202026-03-08%20100309.png)
 ![client1](https://github.com/williamromero11/Project-5/blob/main/Project-5/Client1/Screenshot%202026-03-08%20101735.png)
+![client2](https://github.com/williamromero11/Project-5/blob/main/Project-5/Client2/Screenshot%202026-03-08%20102424.png)
 
 # Project Structure 
 ```
