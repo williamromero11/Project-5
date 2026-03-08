@@ -3,6 +3,8 @@ This project implements a two-tier client-server database application developed 
 
 The program connects to a MySQL database server and allows users to log in with different credentials corresponding to different roles. Based on the account used, users are granted specific database privileges when executing queries.
 
+![accountant](https://raw.githubusercontent.com/williamromero11/Project-5/main/Project-5/Accountant/Screenshot%202026-03-08%20103026.png)
+
 # Key Features
 
 -Java Swing graphical client interface
